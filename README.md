@@ -13,7 +13,7 @@ Sponsored by [IronHack](https://twitter.com/ironhack) and [Refresh Miami](https:
 Presented by:
 
 - Marcelo Paiva [@muqueca](https://twitter.com/muqueca)
-- Andrew Barrocas [@](https://twitter.com/muqueca)
+- Andrew Barrocas [@raggedy_andy75](https://twitter.com/raggedy_andy75)
 - Apoorv Gupta [@ApoorvGups](https://twitter.com/ApoorvGups)
 
 ---
