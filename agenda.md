@@ -13,15 +13,21 @@ We have a lot to cover, the following timetable is intended to help us keep on t
 
 ## Required Installs:
 
-### - For the Phone
-- [Pop](https://popapp.in/)
+### For the Phone
+- [Pop](https://popapp.in/) (iOS, Android and Windows)
 - [package](link)
 - [package](link)
 - [package](link)
 - [package](link)
 
-### - For the Notebook
-- [Pop](https://popapp.in/)
+### For Sketch App
+It is recommended that you use the package manager:
+
+-  **Sketch Toolbox** [http://sketchtoolbox.com/](http://sketchtoolbox.com/)
+
+Once installed you may search and install the following plugins:
+
+- Export to Proto.io
 - [package](link)
 - [package](link)
 - [package](link)
