@@ -1,52 +1,45 @@
-# prototype-miami
-Prototyping Workshop
+# Rapid Prototyping for Entrepreneurs Workshop
 
-## Agenda
+This workshop is the perfect introduction to rapid prototyping your ideas from day-1. You will learn how to use the right tools and skills to go from low to high fidelity designs and validate your ideas without investing much time and money.
 
-9:30am - Intro (AG) 
-9:40am - Logistics (AG)
-9:45am - Pulse Check (MP)
-9:50am - Expectation Setting Will / Won't (MP)
-9:55am - UX Matters Video 5min
-10:00am - ROI on Rapid Prototyping (AG) 5min
+You will have the opportunity take your idea from hand sketching to wireframing to interactive prototypes. It is one of the fastest ways to test a Minimum Viable Product (MVP) before jumping into programming with developers.
 
-10:05am - Demo and Introduce Design (AB+MP) 5min
-10:15am - Github Links, Downloads, Setup (Mac/Win) 15min
+By the end of the workshop, you will have an understanding of the important role a UX Designer plays within a startup and larger organizations. Better yet, you will leave with a finished prototype that you can test and iterate with potential users.
 
-10:30am - MP - Introduce Tesla Home app
-10:40am - MP - Hand sketches 10min
+---
 
-10:50am - AB+MP - Prototyping 
-11:00am - MP - [Pop](https://popapp.in/) 15min
-11:15am - AB - Keynote (Mac) 15min
-11:30pm - inVision (Web) MP/AB 30min 
+Sponsored by [IronHack](https://twitter.com/ironhack) and [Refresh Miami](https://twitter.com/refreshmiami/)
 
-- Lunch 12:00-12:30
+Presented by:
 
-12:30pm - Principle (Mac) 60min
-1:30pm - Proto.io (90min) MP/AB
+- Marcelo Paiva [@muqueca](https://twitter.com/muqueca)
+- Andrew Barrocas [@](https://twitter.com/muqueca)
+- Apoorv Gupta [@ApoorvGups](https://twitter.com/ApoorvGups)
 
-3:00pm - Q&A (15min)
+---
 
-3:30pm - Conclusion (Apoorv)
-  - UX/UI Program (5min)
-  
-3:40pm - Resources (5min)
-  - Sketch templates 
-  - eBooks
-  - Articles
-  - Local Community (IxDA)
-  - Cooper Link
+### Agenda and Timetable 
+- Please check the [Agenda here](agenda.md).
 
-4:00pm - More Q&A
+---
 
+
+
+## Pop
+Using your phone, take pictures of each screen from the print-out that was given to you.
+
+## Keynote
+Description and requirements
+
+1. Steps here
+2. Steps here
+3. Steps here
 
 
 
 ## InvisionApp ()
 1. Signup/Login
 2. Create a Prototype
-3. Craft Plugin
 4. Phone needs to be on the same wifi as the computer
 
 [Link for invision App](http://invis.io/5A87TPE3W)
