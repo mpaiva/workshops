@@ -57,10 +57,10 @@ Description and requirements
 
 
 ## Required Downloads
-1. Pop - https://popapp.in/
-2. Principleapp.com
-3. SketchApp
-4. Sketch
+1. [Pop App](https://popapp.in/)
+2. [Principleapp](http://principleformac.com/)
+3. [SketchApp](https://www.sketchapp.com/)
+
 
 
 
