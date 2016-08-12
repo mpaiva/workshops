@@ -17,21 +17,45 @@
 ### Con
 1. Slow performance for deep-level prototypes
 2. Limitted trial
-e
-velopers can build prototypes through the browser with Proto, but the testing itself is done on the devices. Proto has released native apps for both iOS and Android that developers to test their designs right on the native device itself.
+3. Sketch plugin is not helpful
 
 
 ### Overview
-1. What it is?
-2. When ot use?
-3. 
+1. Dashboard
+2. Preview
+3. Editor
+	- Top - Patterns
+	- Top - Grids
+	- Top - Addons (Usability)
+	- Top - Screens
+	- Top - Assets (Dropbox Sync)
+	- Top - Fonts (Webfonts)
+	- Top - Share (Usability)
+	- Top - Download
+	- Top - Save and Preview
+	- Left - Screen Panel
+	- Left - Layers Panel
+	- Bottom - States Panel
+	- Right - Libraries Panel
+	- Right - Assets Panel	 
 
-### Exporting Importing Assets
-1. Create a New Project in Proto.io
-2. Export proto.io.export file from Sketch
-3. Upload Asset in Proto.io
-4. Review `Screens` (artboards)
+### Step 01 - Exporting Importing Assets
+1. Sketch - Export design assets
+2. Proto.io - Create a New Project
+3. Assets Manager and Dropbox Sync
+3. Upload design assets to Proto.io
+4. Review `Screens` (start screen with **dot**)
 5. Review `Layers`
+
+### Step 02 - Create Screens
+1. Rename `Screen 1` to `Splash Home`
+2. Create `New Screen` called `Splash Loading`
+3. Add `Screen Interaction`
+
+![Screen interaction](https://cl.ly/0Z2M1J0m0S2h)
+
+
+4. 
 
 ### Creating States
 1. Review `Splash` screen
