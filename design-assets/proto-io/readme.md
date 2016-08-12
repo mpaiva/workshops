@@ -47,18 +47,81 @@
 4. Review `Screens` (start screen with **dot**)
 5. Review `Layers`
 
-### Step 02 - Create Screens
+### Step 02 - Screen Interactions
 1. Rename `Screen 1` to `Splash Home`
 2. Create `New Screen` called `Splash Loading`
 3. Add `Screen Interaction`
+	- Title: to-home
+	- Trigger: `Screen before show`
+	- Action: `Go to Screen`
+	- Screen: `Splash Home`
+	- Transition: `Fade`
+	- Duration: `1000`
+	- Easing: `Ease out`
+	- Delay: `1000`
+4. Preview
 
-![Screen interaction](https://cl.ly/0Z2M1J0m0S2h)
+### Step 03 - State Interactions
+1. Under Libraries, add `iOS 9 Progress bar` onto `Splash Loading` screen
+2. Rename it to `loading`
+3. Align to center 
+4. review layer properties
+	- w: `190`
+	- Color/Fill
+	- Progress: `0%`
+5. Create `New Screen State`
+6. Select `State 2`
+7. Select `loading` layer
+8. change `progress` property to `100%`
+9. Select `State Transactions`
+10. Create `New State Transition`
+11. Press the Play button to preview
+12. Change transition time to `1000ms`
+13. Let's change the Screen Interaction now:
+14. Select Splash Loading Interaction icon
+	- Action: `Change Screen State...`
+	- Screen: `Splash Loading`
+	- State: `State 2`
+	- Delay: `1000`
+15. Select `Callback` to add a following interaction
+	- Action: `Go to Screen`
+	- Screen: `Splash Home`
+	- Transition: `Fade`
+	- Duration: `1000`
+	- Easing: `Ease out`
+	- Delay: `1000`
+16. `Save` and `Preview`
 
+### Step 04 - Battery Screen
+1. Create `New Screen`
+2. Double-click on the `01-battery-hi` asset
+3. Add `Callback` to `Splash Loading` interaction to go to `Battery` screen at the end of the interaction.
+	- Action: `Go to Screen`
+	- Screen: `Battery`
+	- Transition: `Slide Left`
+	- Duration: `400`
+	- Easing: `Ease in - Quart`
+	- Delay: `0`
+4. `Save Interaction`
+5. Add `02-battery-lo` asset
+6. From the Library, drag `Interaction Area` element onto canvas
+7. Rename interaction area to `toggle-lo-hi`
+	- Action: `Toggle item visibility (hide/show)` 
+	- Screen: `Battery`
+	- Item: `01-battery-hi.png`
+	- Duration: `400`
+	- Easing: `Ease out - Quad`
+	- Delay: `0`
+8. Save interaction, Save & Preview
 
-4. 
-
-### Creating States
-1. Review `Splash` screen
-2. Review hidden `HOME` layer 
-3. Create `New Screen State`
+### Step 05 - Navigation Container
+1. Create `3 New Screens`:
+	- Harness	
+	- Appliances
+	- Grid
+2. Add design assets to each screen accordingly
+3. For the Appliances screen, add 2 additional states:
+	- State 1: `04-appliances-1.png` 
+	- State 2: `05-appliances-2.png`
+	- State 3: `10-appliances-4.png`
 4. 
