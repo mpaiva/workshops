@@ -15,31 +15,24 @@ We have a lot to cover, the following timetable is intended to help us keep on t
 
 ### For the Phone
 - [Pop](https://popapp.in/) (iOS, Android and Windows)
-- [package](link)
-- [package](link)
-- [package](link)
-- [package](link)
+- [Invision Viewer](https://itunes.apple.com/us/app/invision-viewer/id990700027?mt=8)
+- [Principle Mirror - iOS](https://itunes.apple.com/us/app/principle-mirror-ui-design/id991911319?mt=8)
 
-### For Sketch App
+### Required Downloads
+
+- [Sketch App - Mac Only](https://www.sketchapp.com/)
+- [Principle App - Mac Only](http://principleformac.com/)
+- 
+
 It is recommended that you use the package manager:
 
 -  **Sketch Toolbox** [http://sketchtoolbox.com/](http://sketchtoolbox.com/)
 
-Once installed you may search and install the following plugins:
-
-- Export to Proto.io
-- [package](link)
-- [package](link)
-- [package](link)
-- [package](link)
-
 ---
 
 ## Required Sing-ups
-- [package](link)
-- [package](link)
-- [package](link)
-- [package](link)
+- [invision](https://www.invisionapp.com/)
+- [proto.io](https://proto.io/en/signup/)
 
 
 ---
