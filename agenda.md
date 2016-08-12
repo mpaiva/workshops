@@ -4,10 +4,10 @@ We have a lot to cover, the following timetable is intended to help us keep on t
 ## Logistics
 
 - **WIFI Information**
-  - Network Group 1: `Wifi-Group1` Password: `passw\*ord` 
-  - Network Group 2: `Wifi-Group2` Password: `passw\*ord` 
+  - Network Group 1: `Ironhack` Password: `ironhackbuildingco` 
+  - Network Group 2: `Building.co` Password: `buildingmiami` 
 - **Breaks & Lunch** 
-- **Questiuons and Answers**
+- **Questions and Answers**
 
 ---
 
