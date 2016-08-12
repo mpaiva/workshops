@@ -22,7 +22,6 @@ We have a lot to cover, the following timetable is intended to help us keep on t
 
 - [Sketch App - Mac Only](https://www.sketchapp.com/)
 - [Principle App - Mac Only](http://principleformac.com/)
-- 
 
 It is recommended that you use the package manager:
 
