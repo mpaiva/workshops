@@ -7,7 +7,7 @@ This will be updated throughout the workshop to reflect the steps taken in order
 <h2>1st Step</h2>
 
 <ul>
-<li>Open the file labeled "prototypeprinciple1ststep" in the folder labeled "1st-Step"</li>
+<li>Open the file labeled "prototypeprinciple1ststep" in the folder labeled "1st-Step."</li>
 <li></li>
 <li></li>
 <li></li>
