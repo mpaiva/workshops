@@ -18,50 +18,30 @@ Presented by:
 
 ---
 
-### Agenda and Timetable 
+### Agenda and Timetable
 - Please check the [Agenda here](agenda.md).
 
 ---
 
+## Required Installs:
 
+### For the Phone
+- [Pop](https://popapp.in/) (iOS, Android and Windows)
+- [Invision Viewer](https://itunes.apple.com/us/app/invision-viewer/id990700027?mt=8)
+- [Principle Mirror - iOS](https://itunes.apple.com/us/app/principle-mirror-ui-design/id991911319?mt=8)
+- [Proto.io App](https://itunes.apple.com/us/app/proto.io/id854504039?mt=8)
 
-## Pop
-Using your phone, take pictures of each screen from the print-out that was given to you.
+### Required Downloads
 
-## Keynote
-Description and requirements
+- **Sketch App - Mac Only** [https://www.sketchapp.com/](https://www.sketchapp.com/)
+- **Principle App - Mac Only** [http://principleformac.com/](http://principleformac.com/)
 
-1. Steps here
-2. Steps here
-3. Steps here
+It is also recommended that you download the following Sketch package manager:
 
+- **Sketch Toolbox** [http://sketchtoolbox.com/](http://sketchtoolbox.com/)
 
+---
 
-## InvisionApp ()
-1. Signup/Login
-2. Create a Prototype
-4. Phone needs to be on the same wifi as the computer
-
-[Link for invision App](http://invis.io/5A87TPE3W)
-
-
-## Proto.io
-1. [Sketch Plugin](https://proto.io/en/new-features/photoshop-and-sketch-plugins/)
-2. Signup/Login
-3. Create a Prototype
-
-## Required Sign-ups
-1. Invision
-2. Proto.io
-3. 
-
-
-## Required Downloads
-1. [Pop App](https://popapp.in/)
-2. [Principleapp](http://principleformac.com/)
-3. [SketchApp](https://www.sketchapp.com/)
-
-
-
-
-
+## Required Sing-ups
+- [invision](https://www.invisionapp.com/)
+- [proto.io](https://proto.io/en/signup/)

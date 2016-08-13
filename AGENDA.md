@@ -4,45 +4,19 @@ We have a lot to cover, the following timetable is intended to help us keep on t
 ## Logistics
 
 - **WIFI Information**
-  - Network Group 1: `Ironhack` Password: `ironhackbuildingco` 
-  - Network Group 2: `Building.co` Password: `buildingmiami` 
-- **Breaks & Lunch** 
+  - Network Group 1: `Ironhack` Password: `ironhackbuildingco`
+  - Network Group 2: `Building.co` Password: `buildingmiami`
+- **Breaks & Lunch**
 - **Questions and Answers**
 
 ---
 
-## Required Installs:
-
-### For the Phone
-- [Pop](https://popapp.in/) (iOS, Android and Windows)
-- [Invision Viewer](https://itunes.apple.com/us/app/invision-viewer/id990700027?mt=8)
-- [Principle Mirror - iOS](https://itunes.apple.com/us/app/principle-mirror-ui-design/id991911319?mt=8)
-- [Proto.io App](https://itunes.apple.com/us/app/proto.io/id854504039?mt=8)
-
-### Required Downloads
-
-- [Sketch App - Mac Only](https://www.sketchapp.com/)
-- [Principle App - Mac Only](http://principleformac.com/)
-
-It is recommended that you use the package manager:
-
--  **Sketch Toolbox** [http://sketchtoolbox.com/](http://sketchtoolbox.com/)
-
----
-
-## Required Sing-ups
-- [invision](https://www.invisionapp.com/)
-- [proto.io](https://proto.io/en/signup/)
-
-
----
-
-## Timetable 
+## Timetable
 
 - 8:45am - Breakfast
 
 - 9:30am - Intro (AG)
- 
+
 - 9:40am - Logistics (AG)
 
 - 9:45am - Pulse Check (MP)
@@ -67,7 +41,7 @@ It is recommended that you use the package manager:
 
 - 11:15am - AB - Keynote (Mac) 15min
 
-- 11:30pm - inVision (Web) MP/AB 30min 
+- 11:30pm - inVision (Web) MP/AB 30min
 
 ---
 - Lunch 12:00-12:30
@@ -82,9 +56,9 @@ It is recommended that you use the package manager:
 
 - 3:30pm - Conclusion (Apoorv)
   - UX/UI Program (5min)
-  
+
 - 3:40pm - Resources (5min)
-  - Sketch templates 
+  - Sketch templates
   - eBooks
   - Articles
   - Local Community (IxDA)
@@ -103,4 +77,3 @@ Presented by:
 - Apoorv Gupta [@ApoorvGups](https://twitter.com/ApoorvGups)
 
 ---
-
