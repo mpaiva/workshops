@@ -1,11 +1,28 @@
 # Agenda
 We have a lot to cover, the following timetable is intended to help us keep on track. We count on you to come prepared with the required software pre-installed:
 
-## Logistics
 
-- **WIFI Information**
-  - Network Group 1: `Ironhack` Password: `ironhackbuildingco`
-  - Network Group 2: `Building.co` Password: `buildingmiami`
+# Wifi Information
+
+
+## Please add your NOTEBOOK and PHONE to the same network.
+
+---
+
+## LEFT Group (WIN) 
+## Network: `Building.co` 
+## Password: `buildingmiami`
+
+---
+
+## RIGHT Group (MAC) 
+## Network: `Ironhack` 
+## Password: `ironhackbuildingco`
+
+
+
+
+  
 - **Breaks & Lunch**
 - **Questions and Answers**
 
