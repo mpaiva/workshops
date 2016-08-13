@@ -22,6 +22,12 @@ Presented by:
 - Please check the [Agenda here](agenda.md).
 
 ---
+### Please follow the instructions on:
+
+#github.com/mpaiva/prototype-miami
+
+
+---
 
 ## Required Installs:
 
