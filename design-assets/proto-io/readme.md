@@ -39,6 +39,10 @@
 	- Right - Libraries Panel
 	- Right - Assets Panel	 
 
+### Live Demo
+Open this on your browser or phone: 
+#**[pr.to/5QK7H4](https://pr.to/5QK7H4/)**
+
 ### Step 01 - Exporting Importing Assets
 1. Sketch - Export design assets
 2. Proto.io - Create a New Project
@@ -114,14 +118,19 @@
 	- Delay: `0`
 8. Save interaction, Save & Preview
 
-### Step 05 - Navigation Container
+### Step 05 - Create and Link Screens
 1. Create `3 New Screens`:
 	- Harness	
 	- Appliances
+	- Add
+	- Scan
+	- Select
 	- Grid
 2. Add design assets to each screen accordingly
-3. For the Appliances screen, add 2 additional states:
-	- State 1: `04-appliances-1.png` 
-	- State 2: `05-appliances-2.png`
-	- State 3: `10-appliances-4.png`
-4. 
+
+### Final Step - Navigation Container
+1. Create a container
+2. Build only `State 1` with all possible buttons 
+3. Add interaction to each navigation button
+4. Add interaction to `Add` and `close` buttons
+5. Fine tune animations
