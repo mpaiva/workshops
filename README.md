@@ -18,10 +18,10 @@ Presented by:
 ---
 
 ### What you will learn?
-- item
-- item
-- item
-- item
+- Figma (Windows and Mac) [...](https://hackmd.io/p/H14n369ie#/)
+- Sketch (Mac only)
+- Craft Plugin
+- Invision
 
 ---
 ### Please follow the instructions on:
