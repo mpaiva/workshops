@@ -40,7 +40,9 @@ Presented by:
 
 ### Fonts
 
-- **Roboto** Font - TrueType ( [Download Zip](design-assets/fonts/roboto.zip) )
+- **Roboto** Font - TrueType ( [Download Zip](design-assets/fonts/wedesign-fonts.zip) )
+- **Font Awesome** Icon Font - TrueType ( [Download Zip](design-assets/fonts/wedesign-fonts.zip) )
+
 
 ---
 
