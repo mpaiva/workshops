@@ -40,8 +40,10 @@ Presented by:
 
 ### Fonts
 
-- **Roboto** Font - TrueType ( [Download Zip](design-assets/fonts/wedesign-fonts.zip) )
-- **Font Awesome** Icon Font - TrueType ( [Download Zip](design-assets/fonts/wedesign-fonts.zip) )
+- **Roboto** Font - TrueType 
+- **Font Awesome** Icon Font - TrueType 
+
+( [Download Zip](https://github.com/mpaiva/workshops/raw/master/design-assets/fonts/wedesign-fonts.zip) )
 
 
 ---
