@@ -8,7 +8,7 @@ By the end of the workshop, you will have a good understanding of the important 
 
 ---
 
-Sponsored by [Cross.Team](http://cross.team) - Invision - Ironhack
+Sponsored by [Cross.Team](http://cross.team) - UX Gopher - Invision - Ironhack
 
 Presented by:
 
